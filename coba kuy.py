@@ -1,14 +1,3 @@
-'''
-Kelompok 4 ALPPROG
-Anggota :
-1. Kanha Mahatma K 21305141036    (06)
-2. Luthvi Indriyani 21305141043   (13)
-3. Artanto Kurniawan 21305141049  (19)
-4. Putri Kamilia 21305141055      (24)
-5. Febriana Puspita N 21305144008 (33)
-6. Elsa Aiziyah 21305141025       (44)
-'''
-
 ##Membuat Program Metode Tali 1 Meter
 
 print("~"*50)
@@ -40,7 +29,4 @@ while Lanjut:
     if stop.capitalize() == "N":
         Lanjut = False
 
-print("~"*50)
-print("Kelompok 4 ALPROG")
-print("~"*50)
 
